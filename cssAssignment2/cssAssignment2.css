@@ -1,0 +1,61 @@
+tr.even:hover{
+background-color: #51e1e0;
+
+}
+tr.even{
+  border-style: solid;
+  border-width: thick;
+  text-align: center;
+  border-color: black;
+  padding-top: auto;
+}
+
+tr.odd:hover{
+background-color: #bdb6f2;
+}
+tr.odd{
+  border-style: solid;
+  text-align: center;
+  border-color: black;
+  padding: auto;
+}
+
+table.one {
+  align-self: auto;
+  align-items: center;
+  border-spacing: 30px;
+  padding: 20px;
+  border: 10px;
+  border-style: groove;
+  border-color: green;
+}
+
+ol.one{
+background-color: #ffa400;
+border-style: dotted;
+border-color: #3700ff;
+list-style: upper-roman;
+border-width: 5px;
+text-align: center;
+}
+
+ul.one{
+background-color: #ff0000;
+border-style: dashed;
+border-color: #008700;
+list-style: circle;
+border-width: 5px;
+text-align: center;
+}
+
+th.one{
+box-shadow: 16px;
+border-bottom-width: 12px;
+font-size: 20px;text-align: center;
+border-color: #000000;
+}
+
+body{
+text-align: center;
+
+}
