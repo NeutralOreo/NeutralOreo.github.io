@@ -1,0 +1,30 @@
+pictFrame{
+
+}
+
+figure {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+body{
+  background-image: url("pattern.jpg");
+    background-repeat: repeat
+
+}
+
+img{
+  height: 500px;
+  width: 500px;
+}
+
+div.pictFrame {
+  width: 560px;
+  height: 560px;
+  background-color: #889911;
+  text-align: center;
+  padding-top: 30;
+  display: inline-block;
+  padding-left: 3px;
+}
