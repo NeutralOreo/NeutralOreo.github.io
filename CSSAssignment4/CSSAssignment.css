@@ -1,0 +1,38 @@
+div.one{
+  width: 940px;
+  background-color: red;
+  float: left;
+  text-align: center;
+  margin: 10px;
+}
+div.two{
+  width: 460px;
+  background-color: red;
+  float: left;
+  margin: 10px;
+}
+div.three{
+  width: 300px;
+  background-color: red;
+  float: left;
+  margin: 10px;
+}
+div.four{
+  width: 220px;
+  background-color: red;
+  float:left;
+  margin: 10px;
+}
+
+div.five{
+  width: 140px;
+  background-color: red;
+  float:left;
+  margin: 10px;
+}
+body{
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #aabbee;
+}
